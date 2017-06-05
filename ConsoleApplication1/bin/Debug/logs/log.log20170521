@@ -1,0 +1,106 @@
+2017-05-21 15:09:48,794 WARN [10] PDF_SAVE - Plik istnieje!Zostanie zaktualizowany!
+2017-05-21 15:09:50,092 INFO [10] PDF_SAVE - Utworzono PDF!
+2017-05-21 15:09:54,136 ERROR [10] Program - System.FormatException: Nieprawid³owy format ci¹gu wejœciowego.
+   w System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   w System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   w System.Int32.Parse(String s)
+   w ConsoleApplication1.Program.Main_menu() w C:\Users\Telwaki\Downloads\Nowy folder skompresowany (zip)\ConsoleApplication1\ConsoleApplication1\Program.cs:wiersz 42
+2017-05-21 15:13:05,305 ERROR [10] Program - System.FormatException: Nieprawid³owy format ci¹gu wejœciowego.
+   w System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   w System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   w System.Int32.Parse(String s)
+   w ConsoleApplication1.Program.Main_menu() w C:\Users\Telwaki\Downloads\Nowy folder skompresowany (zip)\ConsoleApplication1\ConsoleApplication1\Program.cs:wiersz 42
+2017-05-21 16:50:50,280 ERROR [9] Program - System.FormatException: Nieprawid³owy format ci¹gu wejœciowego.
+   w System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   w System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   w System.Int32.Parse(String s)
+   w ConsoleApplication1.Kalkulator.Kalkulator.button10_Click(Object sender, EventArgs e) w C:\Users\Telwaki\Downloads\Nowy folder skompresowany (zip)\ConsoleApplication1\ConsoleApplication1\Kalkulator\Kalkulator.cs:wiersz 55
+   w System.Windows.Forms.Control.OnClick(EventArgs e)
+   w System.Windows.Forms.Button.OnClick(EventArgs e)
+   w System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   w System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   w System.Windows.Forms.Control.WndProc(Message& m)
+   w System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   w System.Windows.Forms.Button.WndProc(Message& m)
+   w System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   w System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   w System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   w System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   w System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   w System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   w System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   w System.Windows.Forms.Application.Run(Form mainForm)
+   w ConsoleApplication1.Program.Main(String[] args) w C:\Users\Telwaki\Downloads\Nowy folder skompresowany (zip)\ConsoleApplication1\ConsoleApplication1\Program.cs:wiersz 23
+2017-05-21 16:59:59,218 ERROR [9] Program - System.FormatException: Nieprawid³owy format ci¹gu wejœciowego.
+   w System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   w System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   w System.Int32.Parse(String s)
+   w ConsoleApplication1.Kalkulator.Kalkulator.button14_Click(Object sender, EventArgs e) w C:\Users\Telwaki\Downloads\Nowy folder skompresowany (zip)\ConsoleApplication1\ConsoleApplication1\Kalkulator\Kalkulator.cs:wiersz 93
+   w System.Windows.Forms.Control.OnClick(EventArgs e)
+   w System.Windows.Forms.Button.OnClick(EventArgs e)
+   w System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   w System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   w System.Windows.Forms.Control.WndProc(Message& m)
+   w System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   w System.Windows.Forms.Button.WndProc(Message& m)
+   w System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   w System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   w System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   w System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   w System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   w System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   w System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   w System.Windows.Forms.Application.Run(Form mainForm)
+   w ConsoleApplication1.Program.Main(String[] args) w C:\Users\Telwaki\Downloads\Nowy folder skompresowany (zip)\ConsoleApplication1\ConsoleApplication1\Program.cs:wiersz 23
+2017-05-21 17:10:53,798 ERROR [9] Program - System.FormatException: Nieprawid³owy format ci¹gu wejœciowego.
+   w System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   w System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   w System.Int32.Parse(String s)
+   w ConsoleApplication1.Kalkulator.Kalkulator.button10_Click(Object sender, EventArgs e) w C:\Users\Telwaki\Downloads\Nowy folder skompresowany (zip)\ConsoleApplication1\ConsoleApplication1\Kalkulator.cs:wiersz 54
+   w System.Windows.Forms.Control.OnClick(EventArgs e)
+   w System.Windows.Forms.Button.OnClick(EventArgs e)
+   w System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   w System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   w System.Windows.Forms.Control.WndProc(Message& m)
+   w System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   w System.Windows.Forms.Button.WndProc(Message& m)
+   w System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   w System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   w System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   w System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   w System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   w System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   w System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   w System.Windows.Forms.Application.Run(Form mainForm)
+   w ConsoleApplication1.Program.Main_menu() w C:\Users\Telwaki\Downloads\Nowy folder skompresowany (zip)\ConsoleApplication1\ConsoleApplication1\Program.cs:wiersz 98
+2017-05-21 17:28:38,125 ERROR [9] Program - System.InvalidOperationException: Nie mo¿na uruchomiæ elementu SendKeys w aplikacji, poniewa¿ aplikacja nie obs³uguje komunikatów systemu Windows. Zmieñ aplikacjê w taki sposób, aby obs³ugiwa³a komunikaty, lub u¿yj metody SendKeys.SendWait.
+   w System.Windows.Forms.SendKeys.Send(String keys, Control control, Boolean wait)
+   w System.Windows.Forms.SendKeys.Send(String keys)
+   w ConsoleApplication1.Kalkulator.Kalkulator..ctor() w C:\Users\Telwaki\Downloads\Nowy folder skompresowany (zip)\ConsoleApplication1\ConsoleApplication1\Kalkulator.cs:wiersz 30
+   w ConsoleApplication1.Program.Main_menu() w C:\Users\Telwaki\Downloads\Nowy folder skompresowany (zip)\ConsoleApplication1\ConsoleApplication1\Program.cs:wiersz 98
+2017-05-21 19:55:41,495 ERROR [9] Program - System.InvalidOperationException: Nie mo¿na uruchomiæ elementu SendKeys w aplikacji, poniewa¿ aplikacja nie obs³uguje komunikatów systemu Windows. Zmieñ aplikacjê w taki sposób, aby obs³ugiwa³a komunikaty, lub u¿yj metody SendKeys.SendWait.
+   w System.Windows.Forms.SendKeys.Send(String keys, Control control, Boolean wait)
+   w System.Windows.Forms.SendKeys.Send(String keys)
+   w ConsoleApplication1.Kalkulator.Kalkulator..ctor() w C:\Users\Telwaki\Downloads\Nowy folder skompresowany (zip)\ConsoleApplication1\ConsoleApplication1\Kalkulator.cs:wiersz 30
+   w ConsoleApplication1.Program.Main_menu() w C:\Users\Telwaki\Downloads\Nowy folder skompresowany (zip)\ConsoleApplication1\ConsoleApplication1\Program.cs:wiersz 98
+2017-05-21 19:59:46,945 ERROR [9] Program - System.FormatException: Nieprawid³owy format ci¹gu wejœciowego.
+   w System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   w System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   w System.Int32.Parse(String s)
+   w ConsoleApplication1.Kalkulator.Kalkulator.button10_Click(Object sender, EventArgs e) w C:\Users\Telwaki\Downloads\Nowy folder skompresowany (zip)\ConsoleApplication1\ConsoleApplication1\Kalkulator.cs:wiersz 60
+   w System.Windows.Forms.Control.OnClick(EventArgs e)
+   w System.Windows.Forms.Button.OnClick(EventArgs e)
+   w System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   w System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   w System.Windows.Forms.Control.WndProc(Message& m)
+   w System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   w System.Windows.Forms.Button.WndProc(Message& m)
+   w System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   w System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   w System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   w System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   w System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   w System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   w System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   w System.Windows.Forms.Application.Run(Form mainForm)
+   w ConsoleApplication1.Program.Main_menu() w C:\Users\Telwaki\Downloads\Nowy folder skompresowany (zip)\ConsoleApplication1\ConsoleApplication1\Program.cs:wiersz 98

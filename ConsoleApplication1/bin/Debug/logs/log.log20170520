@@ -1,0 +1,21 @@
+2017-05-20 15:51:42,725 WARN [10] PDF_SAVE - Plik istnieje!
+2017-05-20 15:55:34,565 WARN [9] PDF_SAVE - Plik istnieje!Zostanie zaktualizowany!
+2017-05-20 15:57:34,190 WARN [9] PDF_SAVE - Plik istnieje!Zostanie zaktualizowany!
+2017-05-20 15:57:36,108 INFO [9] PDF_SAVE - Utworzono PDF!
+2017-05-20 21:05:32,668 WARN [10] PDF_SAVE - Plik istnieje!Zostanie zaktualizowany!
+2017-05-20 21:05:34,435 INFO [10] PDF_SAVE - Utworzono PDF!
+2017-05-20 21:05:41,763 ERROR [10] Program - System.FormatException: Nieprawid³owy format ci¹gu wejœciowego.
+   w System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   w System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   w System.Int32.Parse(String s)
+   w ConsoleApplication1.Program.Main_menu() w C:\Users\Telwaki\Downloads\Nowy folder skompresowany (zip)\ConsoleApplication1\ConsoleApplication1\Program.cs:wiersz 40
+2017-05-20 21:08:35,666 ERROR [9] Program - System.FormatException: Nieprawid³owy format ci¹gu wejœciowego.
+   w System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   w System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   w System.Int32.Parse(String s)
+   w ConsoleApplication1.Program.Main_menu() w C:\Users\Telwaki\Downloads\Nowy folder skompresowany (zip)\ConsoleApplication1\ConsoleApplication1\Program.cs:wiersz 40
+2017-05-20 21:08:41,967 ERROR [9] Program - System.FormatException: Nieprawid³owy format ci¹gu wejœciowego.
+   w System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   w System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   w System.Int32.Parse(String s)
+   w ConsoleApplication1.Program.Main_menu() w C:\Users\Telwaki\Downloads\Nowy folder skompresowany (zip)\ConsoleApplication1\ConsoleApplication1\Program.cs:wiersz 40

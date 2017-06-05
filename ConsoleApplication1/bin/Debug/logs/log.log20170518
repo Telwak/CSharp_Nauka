@@ -1,0 +1,87 @@
+2017-05-18 20:20:24,093 INFO [9] Program - Running as LAPTOP-PCTO5UCG\Telwaki
+2017-05-18 20:20:24,116 ERROR [9] Program - This will appear in red in the console and still be written to file!
+2017-05-18 20:22:24,791 INFO [8] Program - Running as LAPTOP-PCTO5UCG\Telwaki
+2017-05-18 20:22:24,831 ERROR [8] Program - This will appear in red in the console and still be written to file!
+2017-05-18 20:22:38,576 INFO [8] Program - Running as LAPTOP-PCTO5UCG\Telwaki
+2017-05-18 20:22:38,609 ERROR [8] Program - This will appear in red in the console and still be written to file!
+2017-05-18 20:23:45,839 INFO [8] Program - Running as LAPTOP-PCTO5UCG\Telwaki
+2017-05-18 20:23:45,908 ERROR [8] Program - This will appear in red in the console and still be written to file!
+2017-05-18 20:24:17,934 INFO [9] Program - Uruchomiono program na: LAPTOP-PCTO5UCG\Telwaki
+2017-05-18 20:24:17,978 ERROR [9] Program - This will appear in red in the console and still be written to file!
+2017-05-18 20:25:35,142 INFO [9] Program - Uruchomiono program na: LAPTOP-PCTO5UCG\Telwaki
+2017-05-18 20:25:36,749 ERROR [9] Program - System.FormatException: Nieprawid³owy format ci¹gu wejœciowego.
+   w System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   w System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   w System.Int32.Parse(String s)
+   w ConsoleApplication1.Program.Main(String[] args) w C:\Users\Telwaki\Downloads\Nowy folder skompresowany (zip)\ConsoleApplication1\ConsoleApplication1\Program.cs:wiersz 33
+2017-05-18 20:26:09,351 ERROR [10] Program - System.FormatException: Nieprawid³owy format ci¹gu wejœciowego.
+   w System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   w System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   w System.Int32.Parse(String s)
+   w ConsoleApplication1.Program.Main(String[] args) w C:\Users\Telwaki\Downloads\Nowy folder skompresowany (zip)\ConsoleApplication1\ConsoleApplication1\Program.cs:wiersz 30
+2017-05-18 20:28:43,063 WARN [9] Program - Brak numeru
+2017-05-18 20:34:02,249 WARN [9] Tworzenie_pliku - Plik istnieje! Zaktualizowano plik!
+2017-05-18 20:34:02,302 INFO [9] Tworzenie_pliku - Utworzono plik tekstowy!
+2017-05-18 20:34:47,049 INFO [9] Tworzenie_pliku - Utworzono plik tekstowy!
+2017-05-18 20:35:16,195 WARN [1] Tworzenie_pliku - Plik istnieje! Zaktualizowano plik!
+2017-05-18 20:35:16,289 INFO [1] Tworzenie_pliku - Utworzono plik tekstowy!
+2017-05-18 20:35:37,482 WARN [1] Tworzenie_pliku - Plik istnieje! Zaktualizowano plik!
+2017-05-18 20:35:37,498 INFO [1] Tworzenie_pliku - Utworzono plik tekstowy!
+2017-05-18 20:36:41,015 ERROR [9] Program - System.OverflowException: Wartoœæ jest za du¿a albo za ma³a dla wartoœci typu Int32.
+   w System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   w System.Int32.Parse(String s)
+   w ConsoleApplication1.Program.Main(String[] args) w C:\Users\Telwaki\Downloads\Nowy folder skompresowany (zip)\ConsoleApplication1\ConsoleApplication1\Program.cs:wiersz 30
+2017-05-18 20:38:26,453 WARN [9] Program - Brak numeru
+2017-05-18 20:38:39,608 WARN [10] Program - Brak numeru
+2017-05-18 20:40:11,563 WARN [9] Program - Brak numeru
+2017-05-18 20:44:57,214 ERROR [9] Program - System.Exception: W³¹czy³eœ w³asny wyj¹tek!
+   w ConsoleApplication1.Program.Petle() w C:\Users\Telwaki\Downloads\Nowy folder skompresowany (zip)\ConsoleApplication1\ConsoleApplication1\Program.cs:wiersz 105
+2017-05-18 20:45:34,228 WARN [9] Tworzenie_pliku - Plik istnieje! Zaktualizowano plik!
+2017-05-18 20:45:34,238 INFO [9] Tworzenie_pliku - Utworzono plik tekstowy!
+2017-05-18 20:45:41,998 ERROR [9] Program - System.FormatException: Nieprawid³owy format ci¹gu wejœciowego.
+   w System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   w System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   w System.Int32.Parse(String s)
+   w ConsoleApplication1.Program.Main_menu() w C:\Users\Telwaki\Downloads\Nowy folder skompresowany (zip)\ConsoleApplication1\ConsoleApplication1\Program.cs:wiersz 32
+2017-05-18 20:48:00,966 ERROR [1] Program - System.Exception: W³¹czy³eœ w³asny wyj¹tek!
+   w ConsoleApplication1.Program.Petle() w C:\Users\Telwaki\Downloads\Nowy folder skompresowany (zip)\ConsoleApplication1\ConsoleApplication1\Program.cs:wiersz 105
+2017-05-18 20:48:12,562 ERROR [1] Program - System.FormatException: Nieprawid³owy format ci¹gu wejœciowego.
+   w System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   w System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   w System.Int32.Parse(String s)
+   w ConsoleApplication1.Program.Main_menu() w C:\Users\Telwaki\Downloads\Nowy folder skompresowany (zip)\ConsoleApplication1\ConsoleApplication1\Program.cs:wiersz 32
+2017-05-18 20:48:14,500 ERROR [1] Program - System.FormatException: Nieprawid³owy format ci¹gu wejœciowego.
+   w System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   w System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   w System.Int32.Parse(String s)
+   w ConsoleApplication1.Program.Main_menu() w C:\Users\Telwaki\Downloads\Nowy folder skompresowany (zip)\ConsoleApplication1\ConsoleApplication1\Program.cs:wiersz 32
+2017-05-18 21:28:03,669 ERROR [9] Tworzenie_pliku - System.IO.DirectoryNotFoundException: Nie mo¿na odnaleŸæ czêœci œcie¿ki „C:\Users\Telwaki\Downloads\Nowy folder skompresowany (zip)\ConsoleApplication1\ConsoleApplication1\bin\Debug\Parsery\TXT\Plik_Tekstowy.txt”.
+   w System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   w System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   w System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   w System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   w System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   w System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding)
+   w System.IO.File.WriteAllLines(String path, String[] contents)
+   w ConsoleApplication1.Tworzenie_pliku.Pobieranie_danych(String Nazwa_pliku) w C:\Users\Telwaki\Downloads\Nowy folder skompresowany (zip)\ConsoleApplication1\ConsoleApplication1\TXT_Create.cs:wiersz 45
+2017-05-18 21:28:20,771 ERROR [10] Tworzenie_pliku - System.IO.DirectoryNotFoundException: Nie mo¿na odnaleŸæ czêœci œcie¿ki „C:\Users\Telwaki\Downloads\Nowy folder skompresowany (zip)\ConsoleApplication1\ConsoleApplication1\bin\Debug\Parsery\TXT\Plik_Tekstowy.txt”.
+   w System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   w System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   w System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   w System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   w System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   w System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding)
+   w System.IO.File.WriteAllLines(String path, String[] contents)
+   w ConsoleApplication1.Tworzenie_pliku.Pobieranie_danych(String Nazwa_pliku) w C:\Users\Telwaki\Downloads\Nowy folder skompresowany (zip)\ConsoleApplication1\ConsoleApplication1\TXT_Create.cs:wiersz 45
+2017-05-18 21:30:03,791 ERROR [10] Tworzenie_pliku - System.IO.DirectoryNotFoundException: Nie mo¿na odnaleŸæ czêœci œcie¿ki „C:\Users\Telwaki\Downloads\Nowy folder skompresowany (zip)\ConsoleApplication1\ConsoleApplication1\bin\Debug\Parsery\TXT\Plik_Tekstowy.txt”.
+   w System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   w System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   w System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   w System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   w System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   w System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding)
+   w System.IO.File.WriteAllLines(String path, String[] contents)
+   w ConsoleApplication1.Tworzenie_pliku.Pobieranie_danych(String Nazwa_pliku) w C:\Users\Telwaki\Downloads\Nowy folder skompresowany (zip)\ConsoleApplication1\ConsoleApplication1\TXT_Create.cs:wiersz 45
+2017-05-18 21:37:41,637 INFO [10] Tworzenie_pliku - Utworzono plik tekstowy!
+2017-05-18 21:38:20,081 WARN [10] Tworzenie_pliku - Plik istnieje! Zaktualizowano plik!
+2017-05-18 21:38:20,143 INFO [10] Tworzenie_pliku - Utworzono plik tekstowy!

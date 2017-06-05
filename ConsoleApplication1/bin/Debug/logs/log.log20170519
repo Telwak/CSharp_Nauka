@@ -1,0 +1,14 @@
+2017-05-19 20:37:35,299 ERROR [9] Program - System.FormatException: Nieprawid³owy format ci¹gu wejœciowego.
+   w System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   w System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   w System.Int32.Parse(String s)
+   w ConsoleApplication1.Program.Main_menu() w C:\Users\Telwaki\Downloads\Nowy folder skompresowany (zip)\ConsoleApplication1\ConsoleApplication1\Program.cs:wiersz 33
+2017-05-19 21:01:00,515 ERROR [10] Program - System.Exception: W³¹czy³eœ w³asny wyj¹tek!
+   w ConsoleApplication1.Program.Petle() w C:\Users\Telwaki\Downloads\Nowy folder skompresowany (zip)\ConsoleApplication1\ConsoleApplication1\Program.cs:wiersz 123
+2017-05-19 21:01:04,469 ERROR [10] Program - System.FormatException: Nieprawid³owy format ci¹gu wejœciowego.
+   w System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   w System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   w System.Int32.Parse(String s)
+   w ConsoleApplication1.Program.Main_menu() w C:\Users\Telwaki\Downloads\Nowy folder skompresowany (zip)\ConsoleApplication1\ConsoleApplication1\Program.cs:wiersz 37
+2017-05-19 21:01:54,583 WARN [1] TXT_READER - Plik nie istnieje! Zostanie Utworzony!
+2017-05-19 21:01:57,432 INFO [1] Tworzenie_pliku - Utworzono plik tekstowy!

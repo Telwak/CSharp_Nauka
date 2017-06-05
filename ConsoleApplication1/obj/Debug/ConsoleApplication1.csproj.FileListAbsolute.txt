@@ -1,0 +1,18 @@
+c:\users\tomtel\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\tomtel\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\tomtel\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\tomtel\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\tomtel\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\tomtel\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Telwaki\Downloads\Nowy folder skompresowany (zip)\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Telwaki\Downloads\Nowy folder skompresowany (zip)\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Telwaki\Downloads\Nowy folder skompresowany (zip)\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Telwaki\Downloads\Nowy folder skompresowany (zip)\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Telwaki\Downloads\Nowy folder skompresowany (zip)\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Telwaki\Downloads\Nowy folder skompresowany (zip)\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Telwaki\Downloads\Nowy folder skompresowany (zip)\ConsoleApplication1\ConsoleApplication1\bin\Debug\log4net.dll
+C:\Users\Telwaki\Downloads\Nowy folder skompresowany (zip)\ConsoleApplication1\ConsoleApplication1\bin\Debug\log4net.xml
+C:\Users\Telwaki\Downloads\Nowy folder skompresowany (zip)\ConsoleApplication1\ConsoleApplication1\bin\Debug\Iesi.Collections.dll
+C:\Users\Telwaki\Downloads\Nowy folder skompresowany (zip)\ConsoleApplication1\ConsoleApplication1\bin\Debug\NHibernate.dll
+C:\Users\Telwaki\Downloads\Nowy folder skompresowany (zip)\ConsoleApplication1\ConsoleApplication1\bin\Debug\Iesi.Collections.xml
+C:\Users\Telwaki\Downloads\Nowy folder skompresowany (zip)\ConsoleApplication1\ConsoleApplication1\bin\Debug\NHibernate.xml
